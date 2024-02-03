@@ -1,3 +1,15 @@
 @import "abstract/variables";
 @import 'bootstrap/scss/bootstrap.scss';
 @import "abstract/base";
+
+.modal-a{
+ background-color: #46139f;
+ color: white;
+}
+.modal-b{
+ background-color: #ff7f50;
+ color: white;
+}
+.close-btn{
+ background-color: #46139f;
+}
